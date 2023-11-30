@@ -1,0 +1,55 @@
+Case: 1
+Faculty 1: 
+Iteration 1: 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: -1
+Iteration 3: -1
+
+Faculty 2: 
+Iteration 1: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 3: -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Case: 2
+Faculty 1: 
+Iteration 1: 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: -1
+Iteration 3: -1
+
+Faculty 2: 
+Iteration 1: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 3: -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Case: 3
+Faculty 1: 
+Iteration 1: 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: -1
+Iteration 3: -1
+
+Faculty 2: 
+Iteration 1: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 3: -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Case: 4
+Faculty 1: 
+Iteration 1: 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: -1
+Iteration 3: -1
+
+Faculty 2: 
+Iteration 1: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 3: -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Case: 5
+Faculty 1: 
+Iteration 1: 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: -1
+Iteration 3: -1
+
+Faculty 2: 
+Iteration 1: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 2: 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+Iteration 3: -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
