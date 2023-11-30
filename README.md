@@ -1,2 +1,2 @@
 # Disco_Project-Final-
-Authors Madhul Aggarwal, Arul Bharadwaj, Swetank Rao
+Submitted by: Madhul Aggarwal(2022A7PS1236G), Arul Bharadwaj(2022A7PS1111G), Swetank Rao(2022A7PS0434G)
