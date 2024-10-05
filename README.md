@@ -16,7 +16,7 @@ a preference list of courses, ordered by their personal preferences, with the mo
 preferred courses appearing at the top. Importantly, there is no prioritisation
 among faculty members within the same category.
 
-******1.2 Objective :****
+****1.2 Objective :****
 To print five possible optimal cases of allotting faculties.
 
 ******1.3 Required Conditions in Constraints :******
