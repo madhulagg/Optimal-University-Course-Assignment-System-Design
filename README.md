@@ -4,7 +4,7 @@ Submitted by: Madhul Aggarwal(2022A7PS1236G), Swetank Rao(2022A7PS0434G), Arul B
 
 
 
-****Problem Statement****
+****1.1 Problem Statement****
 We are provided with the problem statement, in which we have to design University Course Assignment System. There are ”n” faculty members categorised
 into three distinct groups: ”x1,” ”x2,” and ”x3.” Faculty in each category are
 assigned different course loads, with ”x1” handling 0.5 courses per semester,
@@ -16,10 +16,10 @@ a preference list of courses, ordered by their personal preferences, with the mo
 preferred courses appearing at the top. Importantly, there is no prioritisation
 among faculty members within the same category.
 
-******1.2 Objective :******
+******1.2 Objective :****
 To print five possible optimal cases of allotting faculties.
 
-******1.3 Required Conditions in Constraints :**********
+******1.3 Required Conditions in Constraints :******
 1. The allocation of faculty is randomized and not according to the order of
 faculty in the input file.
 2. The minimum number of courses should be 12.
